@@ -1,3 +1,5 @@
+### 增加c端绑定库，用户扩展编译。在lib和include文件下。
+#### Increase the c-side binding library, user extension compilation. Under the lib and include files.
 # Apache ZooKeeper
 ![alt text](https://zookeeper.apache.org/images/zookeeper_small.gif "ZooKeeper")
 
